@@ -24,7 +24,7 @@ public class DeDup {
 	 * Method that processes int array to remove duplicates 
 	 * 
 	 */
-	public void processDuplicates() {
+	private void processDuplicates() {
 		System.out.print("Before Processing input numbers: ");
 		for (int a = 0; a < randomIntegers.length; a++) {
 			System.out.print(randomIntegers[a] + " ");
