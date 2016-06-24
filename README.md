@@ -11,4 +11,4 @@ removeDuplicatesWithArraySort - Method sorts data and removes duplicates
 
 This project contains JUnit classes for this implementation.
 
-Download the JAR under dist/lib/NumberUtils-1.0.0.jar
+Download the JAR under NumberUtils/dist/lib/NumberUtils-1.0.0.jar
